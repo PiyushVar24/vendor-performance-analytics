@@ -28,14 +28,12 @@ The goal of this project is to analyze vendor performance and provide actionable
 ---
 
 ## 📂 Project Structure
-Vendor-Performance-Analytics/
-│
-├── data/ # Sample datasets
-├── EDA.ipynb # Exploratory Data Analysis
-├── ingestion_db.py # Data ingestion script
-├── Vendor Performance.pbix # Power BI dashboard 
-├── .gitignore
-└── README.md
+Vendor-Performance-Analytics
+- EDA.ipynb # Exploratory Data Analysis
+- ingestion_db.py # Data ingestion script
+- Vendor Performance.pbix # Power BI dashboard 
+- .gitignore
+- README.md
 
 
 ---
